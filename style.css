@@ -1,0 +1,24 @@
+
+p{
+	color:#00ff00
+}
+
+.tas{
+	color:#00ff00
+}
+h5{
+	color:red;
+	border:solid 2px blue;
+	display:inline;
+	background:blue;
+}
+img{
+	width: 10%;
+	height: 10%;
+	min-width:50px;
+	max-width:100px;
+}
+#test{
+
+	background:yellow;
+}
